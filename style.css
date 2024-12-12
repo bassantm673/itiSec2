@@ -1,0 +1,9 @@
+h2{
+    color:blueviolet;
+    display:grid;
+    place-items: center;
+    background-color: antiquewhite;
+    height: 50vh;
+    width: auto;
+    font-size: 50px;
+}
